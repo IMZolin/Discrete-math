@@ -1,0 +1,3 @@
+C:/Users/zolin/University/Discrete_math/kr_2/3-task/cmake-build-debug/CMakeFiles/3_task.dir
+C:/Users/zolin/University/Discrete_math/kr_2/3-task/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zolin/University/Discrete_math/kr_2/3-task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
